@@ -1,0 +1,22 @@
+@charset "utf-8";
+.container {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header h1 {
+    background-color: #63DAB1;
+    text-align: center;
+    text-decoration: none;
+}
+nav {
+    text-align: center;
+}
+nav a:link  {
+    color: #8351B5;
+    text-decoration: overline;
+}
+nav a:hover {
+    color: #1D054F;
+    text-decoration: line-through;
+}
